@@ -2249,3 +2249,10 @@ font-size: 20px !important;
   
 
     }
+
+
+.pageonesizewhite{
+background-image: url("../images/bg.png") !important;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
