@@ -290,6 +290,7 @@ input[type="file"] {
     margin: 2% ;
     width: 46% !important;
         box-shadow: none !important;
+        border-radius: 25px !important;
 }
 .grid_main1_1{
       background:#282C35 !important;
@@ -297,6 +298,7 @@ input[type="file"] {
     margin: 2% ;
     width: 46% !important;
         box-shadow: none !important;
+        border-radius: 25px !important;
 }
 
 .grid_main2_1{
@@ -305,6 +307,7 @@ input[type="file"] {
     margin: 2% ;
     width: 46% !important;
     box-shadow: none !important;
+    border-radius: 25px !important;
 }
 
 
@@ -314,6 +317,7 @@ input[type="file"] {
     margin: 2% ;
     width: 46% !important;
     box-shadow: none !important;
+    border-radius: 25px !important;
 }
 
 
